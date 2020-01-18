@@ -9,3 +9,4 @@ function doubleInteger(i) {
 }
 
 console.log(doubleInteger(2) === 4 ? 'Dobrze' : 'Jeszcze nie');
+
