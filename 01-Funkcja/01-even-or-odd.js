@@ -4,8 +4,14 @@ Create a function that takes an integer as an argument and returns "Even" for ev
 https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript
 */
 
-function even_or_odd(number) {
+function sum(){
+
+}
+
+function even_or_odd(number, sum) {
   // ... twój kod tutaj
+  sum();
+  debugger;
   return false;
 }
 
